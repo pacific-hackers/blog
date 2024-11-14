@@ -1,0 +1,70 @@
+# defaultContentLanguage = "en"
+# languageCode = "en-us"
+# defaultContentLanguageInSubdir = true
+baseURL = "https://www.angularcorp.com/" # Must end with splash
+languageCode = "en-us"
+title = "{Pacific Hackers} - Discover Issues, Share Solutions."
+# disqusShortname = "yourDisqusShortname"
+# contentDir = "content"
+
+staticDir = ["static", "themes/Niello/static"]
+
+theme = "Niello"
+
+ [languages]
+	[languages.en]
+		title = "./Pacific Hackers - Alone We Are Strong, Together We Are Unstoppable"
+		languageCode = "en-us"
+		LanguageName = "🇺🇸EN"
+		contentDir = "content"
+		weight = 1
+		[[languages.en.menus.main]]
+			name = 'Home'
+			pageRef = '/'
+			weight = 1
+		[[languages.en.menus.main]]
+			name = 'Categories'
+			pageRef = '/categories'
+			weight = 2
+		[[languages.en.menus.main]]
+			name = 'Tags'
+			pageRef = '/tags'
+			weight = 3
+		[[languages.en.menus.main]]
+			name = 'Contact'
+			pageRef = '/contact'
+			weight = 4
+#	[languages.zh]
+#		title = "{码途轨迹} - 发现问题，分享解决."
+#        languageCode = "zh-cn"
+#        LanguageName = "🇨🇳CN"
+#        contentDir = "content/zh"
+#        weight = 2
+#		[[languages.zh.menus.main]]
+#			name = '首页'
+#			pageRef = '/'
+#			weight = 1
+#		[[languages.zh.menus.main]]
+#			name = '文章分类'
+#			pageRef = '/categories'
+#			weight = 2
+#		[[languages.zh.menus.main]]
+#			name = '标签'
+#			pageRef = '/tags'
+#			weight = 3
+#		[[languages.zh.menus.main]]
+#			name = '联系我们'
+#			pageRef = '/contact'
+#			weight = 4
+        
+[params]
+keywords = "" 
+description = "" 
+copyright = "&#xA9; 2024 Pacific Hackers Assosciation. All Rights Reserved."
+# google_ad_client = "ca-pub-******" 
+# ga4 = "G-******"
+# sharethis = "" 
+
+[outputs]
+  home = ["HTML", "JSON"]
+    
