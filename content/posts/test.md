@@ -1,5 +1,5 @@
 ---
-featuredImage: "/image/phackconference2024.webp" 
+featuredImage: "/blog/image/phackconference2024.webp" 
 Title: "Pacific Hackers Conference 2024!!!"
 date: 2024-10-22
 categories:
