@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on {Pacific Hackers} - Discover Issues, Share Solutions.</title>
+    <link>http://localhost:1313/categories/featured/</link>
+    <description>Recent content in Featured on {Pacific Hackers} - Discover Issues, Share Solutions.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the title</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;test123&#34;&gt;Test123&lt;/h1&gt;&#xA;&lt;p&gt;lets see if this works&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

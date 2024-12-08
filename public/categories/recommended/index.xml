@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommended on ./Pacific Hackers - Alone We Are Strong, Together We Are Unstoppable</title>
+    <link>http://localhost:1313/categories/recommended/</link>
+    <description>Recent content in Recommended on ./Pacific Hackers - Alone We Are Strong, Together We Are Unstoppable</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/recommended/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pacific Hackers Conference 2024!!!</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;test123&#34;&gt;Test123&lt;/h1&gt;&#xA;&lt;p&gt;lets see if this works&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
