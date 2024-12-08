@@ -1,10 +1,9 @@
 defaultContentLanguage = "en"
-languageCode = "en-us"
-defaultContentLanguageInSubdir = true
+# defaultContentLanguageInSubdir = true
 baseURL = "https://pacific-hackers.github.io/blog/" # Must end with splash
 languageCode = "en-us"
 title = "{CodeTrace} - Discover Issues, Share Solutions."
-disqusShortname = "yourDisqusShortname" // Add third-party comments system
+# disqusShortname = "yourDisqusShortname" // Add third-party comments system
 
 staticDir = ["static", "themes/Niello/static"]
 
@@ -13,10 +12,10 @@ theme = "Niello"
 [params]
 keywords = ""   //SEO keywords
 description = ""    //Site description
-copyright = "&#xA9; 2019 - 2022 by guangmean. All Rights Reserved."
-google_ad_client = "ca-pub-******"  //Optional, replace ca-pub-****** with your content
-ga4 = "G-******" //Optional, replace G-****** with your Google Analytics GA4
-sharethis = ""  //Optional, Add hou ShareThis appid here
+copyright = "&#xA9; 2019 - 2022 by Pacific Hackers. All Rights Reserved."
+# google_ad_client = "ca-pub-******"  //Optional, replace ca-pub-****** with your content
+# ga4 = "G-******" //Optional, replace G-****** with your Google Analytics GA4
+# sharethis = ""  //Optional, Add hou ShareThis appid here
 
 [outputs]
   home = ["HTML", "JSON"]
