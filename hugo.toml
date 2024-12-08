@@ -14,7 +14,7 @@ theme = "Niello"
 
 [languages]
 	[languages.en]
-		title = "{CodeTrace} - Discover Issues, Share Solutions."
+		title = "Pacific Hackers - Grow From The Root Up"
 		languageCode = "en-us"
 		LanguageName = "🇺🇸EN"
 		contentDir = "content"
