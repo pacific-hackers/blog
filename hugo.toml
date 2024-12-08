@@ -2,16 +2,43 @@ defaultContentLanguage = "en"
 # defaultContentLanguageInSubdir = true
 baseURL = "https://pacific-hackers.github.io/blog/" # Must end with splash
 languageCode = "en-us"
-title = "{CodeTrace} - Discover Issues, Share Solutions."
+title = "./Pacific Hackers"
+
+siteslogan = "Grow From the Root Up"
+
 # disqusShortname = "yourDisqusShortname" 
 
 staticDir = ["static", "themes/Niello/static"]
 
 theme = "Niello"
 
+[languages]
+	[languages.en]
+		title = "{CodeTrace} - Discover Issues, Share Solutions."
+		languageCode = "en-us"
+		LanguageName = "🇺🇸EN"
+		contentDir = "content"
+		weight = 1
+		[[languages.en.menus.main]]
+			name = 'Home'
+			pageRef = '/'
+			weight = 1
+		[[languages.en.menus.main]]
+			name = 'Categories'
+			pageRef = '/categories'
+			weight = 2
+		[[languages.en.menus.main]]
+			name = 'Tags'
+			pageRef = '/tags'
+			weight = 3
+		[[languages.en.menus.main]]
+			name = 'Contact'
+			pageRef = '/contact'
+			weight = 4
+
 [params]
 keywords = ""  
-description = ""    
+description = "Pacific Hackers"    
 copyright = "&#xA9; 2019 - 2022 by Pacific Hackers. All Rights Reserved."
 # google_ad_client = "ca-pub-******"
 # ga4 = "G-******"
