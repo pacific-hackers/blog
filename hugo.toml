@@ -3,7 +3,7 @@ title = "{Pacific Hackers} - Discover Issues, Share Solutions."
 # contentDir = "content"
 
 staticDir = ["static", "themes/Niello/static"]
-baseURL = 'https://example.org/'
+baseURL = 'https://pacific-hackers.github.io/blog/'
 languageCode = 'en-us'
 theme = 'Niello'
 
@@ -17,4 +17,3 @@ copyright = "&#xA9; 2024 Pacific Hackers Assosciation. All Rights Reserved."
 
 [outputs]
   home = ["HTML", "JSON"]
-  
