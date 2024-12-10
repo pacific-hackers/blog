@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://pacific-hackers.github.io/blog/categories/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/events/</loc>
+    <loc>https://pacific-hackers.github.io/blog/tags/events/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/winter_hacking_2024/</loc>
+    <loc>https://pacific-hackers.github.io/blog/posts/winter_hacking_2024/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://pacific-hackers.github.io/blog/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
+    <loc>https://pacific-hackers.github.io/blog/posts/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/recommended/</loc>
+    <loc>https://pacific-hackers.github.io/blog/categories/recommended/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://pacific-hackers.github.io/blog/tags/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/test/</loc>
+    <loc>https://pacific-hackers.github.io/blog/posts/test/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url>
 </urlset>
