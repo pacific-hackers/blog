@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Pacific Hackers - Grow From The Root Up</title>
-    <link>https://pacific-hackers.github.io/blog/tags/events/</link>
+    <link>https://pacifichackers.rootandbeer.com/tags/events/</link>
     <description>Recent content in Events on Pacific Hackers - Grow From The Root Up</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pacific-hackers.github.io/blog/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pacifichackers.rootandbeer.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join us for our WinterHackingFest on 12/21/2024</title>
-      <link>https://pacific-hackers.github.io/blog/posts/winter_hacking_2024/</link>
+      <link>https://pacifichackers.rootandbeer.com/posts/winter_hacking_2024/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pacific-hackers.github.io/blog/posts/winter_hacking_2024/</guid>
+      <guid>https://pacifichackers.rootandbeer.com/posts/winter_hacking_2024/</guid>
       <description>&lt;p&gt;It’s the end of the year, and we’re throwing a celebration you won’t want to miss! Join us for our final meetup of 2024—a relaxed, holiday-themed gathering designed to bring the hacker and security community together for some fun, food, and festivities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;&#xA;&lt;p&gt;Join Pacific Hackers, DevSecCon, and OWASP Bay Area for our last meetup of 2024!&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s time to wind down the year and celebrate the holiday season with fellow hackers and security enthusiasts. No presentations, no pressure, just good vibes and good company.&lt;/p&gt;</description>
     </item>
   </channel>
