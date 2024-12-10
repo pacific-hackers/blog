@@ -1,5 +1,5 @@
 ---
-featuredImage: "/blog/image/winter_hacking_2024.jpg" 
+featuredImage: "/image/winter_hacking_2024.jpg" 
 Title: "Join us for our WinterHackingFest on 12/21/2024"
 Description: Come join us for our yearly WinterHackingFest!
 date: 2024-12-08
