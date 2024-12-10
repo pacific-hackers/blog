@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommended on Pacific Hackers - Grow From The Root Up</title>
-    <link>https://pacific-hackers.github.io/blog/categories/recommended/</link>
+    <link>http://localhost:1313/blog/categories/recommended/</link>
     <description>Recent content in Recommended on Pacific Hackers - Grow From The Root Up</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pacific-hackers.github.io/blog/categories/recommended/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/recommended/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join us for our WinterHackingFest on 12/21/2024</title>
-      <link>https://pacific-hackers.github.io/blog/posts/winter_hacking_2024/</link>
+      <link>http://localhost:1313/blog/posts/winter_hacking_2024/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pacific-hackers.github.io/blog/posts/winter_hacking_2024/</guid>
+      <guid>http://localhost:1313/blog/posts/winter_hacking_2024/</guid>
       <description>&lt;p&gt;It’s the end of the year, and we’re throwing a celebration you won’t want to miss! Join us for our final meetup of 2024—a relaxed, holiday-themed gathering designed to bring the hacker and security community together for some fun, food, and festivities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;&#xA;&lt;p&gt;Join Pacific Hackers, DevSecCon, and OWASP Bay Area for our last meetup of 2024!&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s time to wind down the year and celebrate the holiday season with fellow hackers and security enthusiasts. No presentations, no pressure, just good vibes and good company.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pacific Hackers Conference 2024!!!</title>
-      <link>https://pacific-hackers.github.io/blog/posts/test/</link>
+      <link>http://localhost:1313/blog/posts/test/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pacific-hackers.github.io/blog/posts/test/</guid>
+      <guid>http://localhost:1313/blog/posts/test/</guid>
       <description>&lt;h1 id=&#34;test123&#34;&gt;Test123&lt;/h1&gt;&#xA;&lt;p&gt;lets see if this works&amp;hellip;.&lt;/p&gt;</description>
     </item>
   </channel>
