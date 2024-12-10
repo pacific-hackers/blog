@@ -1,6 +1,6 @@
 defaultContentLanguage = "en"
 # defaultContentLanguageInSubdir = true
-baseURL = "https://pacific-hackers.github.io/blog/" # Must end with splash
+baseURL = "https://pacifichackers.rootandbeer.com/" # Must end with splash
 languageCode = "en-us"
 title = "./Pacific Hackers"
 
