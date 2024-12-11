@@ -5,7 +5,8 @@ Description: Come join us for our yearly WinterHackingFest!
 date: 2024-12-08
 categories:
   - Recommended
-tags: Events
+  - Events
+tags: MeetUp
 ---
 
 It’s the end of the year, and we’re throwing a celebration you won’t want to miss! Join us for our final meetup of 2024—a relaxed, holiday-themed gathering designed to bring the hacker and security community together for some fun, food, and festivities.
